@@ -1,0 +1,1 @@
+const TodoItem: React.FC = (this.props.first) =>
